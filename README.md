@@ -1,1 +1,1 @@
-Salom, dunyo!
+Bonjour!
