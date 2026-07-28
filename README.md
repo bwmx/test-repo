@@ -1,1 +1,1 @@
-hello, world!
+Salom, dunyo!
